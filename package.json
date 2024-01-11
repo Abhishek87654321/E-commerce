@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "flowbite": "^2.2.1",
+    "flowbite-datepicker": "^1.2.6"
+  }
+}
